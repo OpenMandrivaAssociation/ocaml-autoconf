@@ -9,7 +9,7 @@ URL:            http://forge.ocamlcore.org/projects/ocaml-autoconf/
 Source0:        https://forge.ocamlcore.org/frs/download.php/181/ocaml-autoconf-%{version}.tar.gz
 BuildArch:      noarch
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}
-BuildRequires:  perldoc
+BuildRequires:  perl
 # Runtime requires /usr/share/aclocal subdirectory.
 Requires:       automake
 
