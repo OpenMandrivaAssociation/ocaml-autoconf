@@ -38,3 +38,16 @@ rm -rf $RPM_BUILD_ROOT
 %{_mandir}/man1/*.1*
 %{_datadir}/aclocal/ocaml.m4
 
+
+
+%changelog
+* Mon Jan 25 2010 Guillaume Rousse <guillomovitch@mandriva.org> 1.1-1mdv2010.1
++ Revision: 496356
+- new version
+
+* Thu Aug 13 2009 Florent Monnier <blue_prawn@mandriva.org> 1.0-1mdv2010.0
++ Revision: 415810
+- buildrequires perl
+- perldoc path
+- imported from fedora's spec file by Richard Jones
+
