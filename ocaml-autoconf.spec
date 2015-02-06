@@ -1,6 +1,6 @@
 Name:           ocaml-autoconf
 Version:        1.1
-Release:        %mkrel 1
+Release:        2
 Summary:        Autoconf macros for OCaml
 Group:          Development/Other
 # https://fedoraproject.org/wiki/Licensing/BSD#3ClauseBSD
