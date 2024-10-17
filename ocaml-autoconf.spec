@@ -5,7 +5,7 @@ Summary:        Autoconf macros for OCaml
 Group:          Development/Other
 # https://fedoraproject.org/wiki/Licensing/BSD#3ClauseBSD
 License:        BSD
-URL:            http://forge.ocamlcore.org/projects/ocaml-autoconf/
+URL:            https://forge.ocamlcore.org/projects/ocaml-autoconf/
 Source0:        https://forge.ocamlcore.org/frs/download.php/181/ocaml-autoconf-%{version}.tar.gz
 # Runtime requires /usr/share/aclocal subdirectory.
 Requires:       automake
