@@ -12,6 +12,7 @@ Requires:       automake
 BuildArch:      noarch
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}
 
+BuildRequires:	make
 %description
 Autoconf macros for OCaml.
 
